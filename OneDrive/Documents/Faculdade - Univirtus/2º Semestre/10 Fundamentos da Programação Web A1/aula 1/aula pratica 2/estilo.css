@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+    color: blue;
+}
+
+p{
+    text-align: justify;
+    color: red;
+}
+
+#p{
+    color:chartreuse;
+}
+
+.p{
+    color:blueviolet;
+}
